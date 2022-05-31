@@ -1,0 +1,48 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Syllabus</title>
+  <metadata>
+  <md:content-id>m28701</md:content-id><md:title>Syllabus</md:title>
+  <md:abstract/>
+  <md:uuid>9b62ea74-1dae-4cae-ba0d-544fd849fe06</md:uuid>
+</metadata>
+
+<content>
+    <section id="element-395"><title>Course Overview</title>
+<para id="element-465">
+Topics include: organisation of genetic material in prokaryotes and eukaryotes, DNA replication, transcription, translation, regulation of gene expression in prokaryotes and eukaryotes.
+</para></section><section id="element-94"><title>Textbooks</title>
+<para id="element-306">1. Watson, James D., Baker, Tania A., Bell, Stephen P., Gann, Alexander, Levine, Michael, Losick, Richard. Molecular Biology of the Gene. 5th ed. Benjamin Cummings, Cold Spring Harbor Laboratory Press, 2004. (required)</para><para id="element-52">2. Alberts, Bruce, Johnson, Alexander, Lewis, Julian, Raff, Martin, Roberts, Keith, Walter, Peter. Molecular Biology of the Cell. 4th ed. New York and London:Garland Science, 2002. (required for topic 1)</para><para id="element-551">3. Turner, P.C., McLennan, A.G., Bates, A.D., and White M.R.H. Instant Notes in Molecular Biology. BIOS Scientific Publishers Limited, 1997. (optional)</para></section><section id="element-676"><title>Pre-requisites</title>
+<para id="element-507">
+Biochemistry
+</para><para id="element-949">Genetics</para></section><section id="element-586"><title>Grading</title>
+<table id="element-732" summary="">
+<tgroup cols="2"><tbody>
+  <row>
+    <entry>Activities</entry>
+    <entry>Points</entry>
+  </row>
+  <row>
+    <entry>Mid-term exam 1</entry>
+    <entry>X/10</entry>
+  </row>
+  <row>
+    <entry>Seminar presentation (optional)</entry>
+    <entry>(Y/10)</entry>
+  </row>
+  <row>
+    <entry>Final exam</entry>
+    <entry>Z/10</entry>
+  </row>
+  <row>
+    <entry>Total</entry>
+    <entry>X + (Y) + 2Z/10</entry>
+  </row>
+</tbody>
+
+
+
+</tgroup>
+</table></section>   
+  </content>
+  
+</document>

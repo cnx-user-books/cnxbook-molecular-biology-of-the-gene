@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Course Home</title>
+  <metadata>
+  <md:content-id>m30796</md:content-id><md:title>Course Home</md:title>
+  <md:abstract/>
+  <md:uuid>d1219e26-be26-4cc9-8be1-92ad7a57e9c9</md:uuid>
+</metadata>
+
+<content>
+  <figure id="Fig">
+<media id="id1169151551219" alt=""><image src="../../media/centdog.jpg" mime-type="image/jpeg"/></media>
+ <caption>The Central Dogma of Molecular Biology (http://elgolemrazonable.blogspot.com/2009/02/el-dogma-central-de-la-biologia.html)</caption>
+</figure>
+<para id="delete_me"><!-- Insert module text here -->
+    This course introduces basic molecular mechanisms that control cell survival and reproduction. Topics include DNA constancy and variations, gene expression and regulation of gene expression. These topics are presented as lectures notes, readings and assignments.</para>   
+  </content>
+  
+</document>

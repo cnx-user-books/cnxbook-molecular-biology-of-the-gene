@@ -1,0 +1,42 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Interesting Links</title>
+  <metadata>
+  <md:content-id>m28437</md:content-id><md:title>Interesting Links</md:title>
+  <md:abstract/>
+  <md:uuid>35925424-343f-4dcd-890f-594c47099cad</md:uuid>
+</metadata>
+
+<content>
+    <section id="id11129414">
+      
+      <table id="id8075830" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Website URL</entry>
+              <entry>Description and purpose of the website</entry>
+            </row>
+            <row>
+              <entry>DNA from the Beginning<link url="http://www.dnaftb.org/dnaftb/">http://www.dnaftb.org/dnaftb/</link></entry>
+              <entry>Discover the concepts and experiments that define the fields of genetics and molecular biology. </entry>
+            </row>
+            <row>
+              <entry>DNA Interactive<link url="http://www.dnai.org/">http://www.dnai.org/</link></entry>
+              <entry>A large collection of videos and interactive 3-D animations for the discovery of the DNA structure and the development of "DNA science."</entry>
+            </row>
+            <row>
+              <entry>Biostudio <link url="http://www.biostudio.com/a_sitemap.htm">http://www.biostudio.com/a_sitemap.htm</link></entry>
+              <entry>BioStudio has designed and developed science animations, over 100 to date, for flagship life sciences textbooks, including Molecular Cell Biology (Lodish et al.) and An Introduction to Genetic Analysis (Griffiths et al.).</entry>
+            </row>
+            <row>
+              <entry>- Chapter 14 “DNA: The Genetic Material” <link url="http://highered.mcgraw-hill.com/sites/0072437316/student_view0/chapter14/">http://highered.mcgraw-hill.com/sites/0072437316/student_view0/chapter14/</link>- Chapter 15 “Genes and How They Work” <link url="http://highered.mcgraw-hill.com/sites/0072437316/student_view0/chapter15/animations.html">http://highered.mcgraw-hill.com/sites/0072437316/student_view0/chapter15/animations.html</link>- Chapter 18 “Control of Gene Expression” <link url="http://highered.mcgraw-hill.com/sites/0072437316/student_view0/chapter18/animations.html">http://highered.mcgraw-hill.com/sites/0072437316/student_view0/chapter18/animations.html</link></entry>
+              <entry>Online Learning Center of Biology, 7/e (Peter H. Raven, George B. Johnson, Jonathan Loss, Susan Singer)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>

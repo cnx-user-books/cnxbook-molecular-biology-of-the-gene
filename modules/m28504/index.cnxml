@@ -1,0 +1,75 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>End-of-course Assignments</title>
+  <metadata>
+  <md:content-id>m28504</md:content-id><md:title>End-of-course Assignments</md:title>
+  <md:abstract/>
+  <md:uuid>79a3c12e-0a3a-428f-be06-a75598a1763e</md:uuid>
+</metadata>
+
+<content>
+    <section id="id27715972">
+      <title>Topic 1. CHEMISTRY OF THE CELL</title>
+      <para id="id25078978"><title>Problem 1</title>During a process called apoptosis that leads to natural cell death, genomic DNA is hydrolyzed into multiple fragments having 180 bp and n x 180 bp-length. The results could be analyzed by agarose gel electrophoresis (Figure 1).</para>
+      <para id="id26652110"><figure id="id26713180"><title>Agarose gel electrophoresis of DNA extracted from cultured cells</title><media id="id983426" alt=""><image src="../../media/graphics1.jpg" mime-type="image/jpeg" height="223" width="171"/></media><caption>1. Non treated cells, 2. Heat-killed cells, 3. DNA molecular size marker, 4. Cells collected after 24 h induction to apoptosis</caption></figure></para>
+      <para id="id26605800">1.1. How could you explain these results? </para>
+      <para id="id26606944">1.2. If you collect and analyze cells induced to apoptosis at 48 h after induction, what image do you expect to obtain after electrophoresis? Why?</para>
+      <para id="id24549727"><title>Problem 2</title>Compared to DNA extraction from cell, RNA extraction requires much more care to obtain intact RNA. What could be the reasons of this difference? </para>
+      <para id="id26609256"><title>Problem 3</title>Before a RNA solution is loaded in an agarose gel for electrophoresis, it must be heated 10 minutes at 65°C. What could be the reason? </para>
+      <para id="id24250866"><title>Problem 4</title>You need two proteins having the capacity to bind to the same region in genomic DNA but one is regulated by thyroid hormone whereas the other is regulated by glucocorticoid hormone. The protein regulated by thyroid hormone represses the expression of genes it binds to whereas the other activates these same genes. How could you produce genes encoding these proteins? </para>
+      <para id="id26797187"><title>Problem 5</title>Nucleic acids absorb UV radiation with maximum absorption at 260 nm wavelength. This absorption is mainly due to peripheral electrons of purines and pyrimidines and can be measured as optical density values. </para>
+      <para id="id26391904">A student measures the optical density of a nucleic acid solution before and after boiling and obtains the following values:</para>
+      <para id="id23810129">OD260 before boiling = 0.846</para>
+      <para id="id25516770">OD260 after boiling and rapid re-cooling (placing on ice) = 0.123</para>
+      <para id="id12308499">How can you explain these results? </para>
+      <para id="id26819417"><title>Problem 6</title>Analysis of base percentage of a nucleic acid extracted from an unidentified organism shows that this nucleic acid is composed of 30% A, 15% C, 35% G and 20% T. What conclusion can you make about this organism?</para>
+      <para id="id27945507"><title>Problem 7</title>You are assigned the analysis of two samples, DNA and RNA extracts. The labels are unfortunately lost. How could you distinguish them?</para>
+      <para id="id19869729"><title>Problem 8</title>The following graphs show the reassociation rate of two genomic DNA samples, one from a bacteria and the other from a mammal. The genomic DNAs are denatured by boiling and are let to renature by slow cooling.</para>
+      <figure id="id27384068">
+        <media id="id3314142" alt=""><image src="../../media/graphics2.jpg" mime-type="image/jpeg" height="209" width="458"/></media>
+      </figure>
+      <para id="id20662611">How could you explain these results?</para>
+    </section>
+    <section id="id26713129">
+      <title>Topic 2. DNA REPLICATION</title>
+      <para id="id27316046"><title>Problem 9</title>A student set up two reactions:</para>
+      <para id="id20644722">- Reaction I: enzyme buffer + DNA polymerase + 350 bp-DNA fragment + dNTP + a non-identified solution</para>
+      <para id="id24070862">- Reaction II: enzyme buffer + DNA polymerase + 350 bp-DNA fragment + dNTP</para>
+      <para id="id27581033">After 1h-incubation at 37°C, agarose gel electrophoresis analysis shows:</para>
+      <para id="id26507605">- A 350 bp-band from the reaction I</para>
+      <para id="id27176571">- No band observed from the reaction II</para>
+      <para id="id26635815">How could you explain these results? </para>
+      <para id="id25341623"><title>Problem 10</title>Cloning techniques aim at amplifying a specific gene ligated to a vector. The vector containing the inserted gene, called recombinant vector, is introduced into a host cell. Inside the cell, recombinant vectors replicate to give rise to multiple copies. </para>
+      <para id="id26657911">What is (are) the structural characteristic(s) of these vectors which allow this amplification? </para>
+      <para id="id26607880"><title>Problem 11</title>The structure of 16S rRNA gene of some eubacteria is shown in the following schema: </para>
+      <figure id="id27008671">
+        <media id="id8383428" alt=""><image src="../../media/graphics3.jpg" mime-type="image/jpeg" height="260" width="598"/></media>
+      </figure>
+      <para id="id13069611">A scientist wants to: (1) detect all these eubacteria in the first step, and (2) specifically detect each of these species in clinical samples in the second step. He uses PCR (Polymerase Chain Reaction) technique which allows the in vitro amplification of DNA fragments.</para>
+      <para id="id24196357"> How could he manage to do the first step? the second step? </para>
+      <para id="id26012142"><title>Problem 12</title>Draw two replicons in the process of being replicated</para>
+      <para id="id24271245"><title>Problem 13</title>Draw a scheme representing DNA replication by rolling circle to give rise to double-stranded DNA</para>
+    </section>
+    <section id="id24604414">
+      <title>Topic 3. DNA VARIATIONS</title>
+      <para id="id27103898"><title>Problem 14</title>Sickle cell disease is expressed as abnormality of red blood cell shape (sickled- shape) due to abnormality of β-globin (a constituent of haemoglobin). Thalassemias are diseases caused by an abnormal low amount of globin proteins. </para>
+      <para id="id25607310">How can you tell about the possible causes of these diseases? </para>
+      <para id="id24380882"><title>Problem 15</title>Explain how the Ames test can be used to detect mutagens </para>
+      <para id="id27394528"><title>Problem 16</title>Taq polymerase used in PCR is a thermostable DNA polymerase which synthesizes DNA with a high error rate whereas Pfu polymerase has a low error rate. What makes this difference between the two enzymes? </para>
+      <para id="id26404691"><title>Problem 17</title>Multiresistance to antibiotics in bacteria is due to transposition rather than mutations. Explain how a bacterium can become resistant to many antibiotics. </para>
+      <para id="id28068762"><title>Problem 18</title>Present a scheme showing the structure of a protein encoding DNA fragment, the related mRNA and polypeptide</para>
+      <para id="id27267941"><title>Problem 19</title>Explain how the consensus sequences within bacterial promoters are established and how can one demonstrate that the promoter sequence is necessary for transcription initiation?</para>
+      <para id="id25099389"><title>Problem 20</title>To fight against some pathogens, people try to inhibit the production of pathogenic proteins inside the cell. Explain how could it be done?</para>
+    </section>
+    <section id="id24560852">
+      <title>Topic 5. PROTEIN SYNTHESIS</title>
+      <para id="id25771635"><title>Problem 21</title> What are the peptides that could be synthesized from the following DNA strand in vitro under nonstringent conditions: 5’ TTGACGAGTAA 3’</para>
+      <para id="id26082721"><title>Problem 22</title>Puromycin is an antibiotic which inhibits the translational process. It can bind to the A site of the ribosome. Explain the mechanism of action of this antibiotic.</para>
+    </section>
+    <section id="id24070734">
+      <title>Topic 6. REGULATION OF GENE EXPRESSION</title>
+      <para id="id27706590"><title>Problem 23</title>What will happen if a mutation occurs in the coding region of the inhibitor gene of the lac operon leading to incapacity to bind lactose of the repressor, in the presence and absence of lactose?</para>
+      <para id="id25186160"><title>Problem 24</title>An E. coli becomes insensitive to catabolite repression for lac operon. Give possible reasons for this.</para>
+      <para id="id26630758"><title>Problem 25</title>Could regulation by attenuation occur in a eukaryote? Why?</para>
+    </section>
+  </content>
+</document>

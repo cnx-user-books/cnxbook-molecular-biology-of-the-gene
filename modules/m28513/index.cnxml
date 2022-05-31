@@ -1,0 +1,140 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>End-of-topic Assignments</title>
+  <metadata>
+  <md:content-id>m28513</md:content-id><md:title>End-of-topic Assignments</md:title>
+  <md:abstract/>
+  <md:uuid>6c2410b3-ab49-476f-a98c-04e062369adf</md:uuid>
+</metadata>
+
+<content>
+    <section id="id22760632">
+      
+      <title> Topic 1. CHEMISTRY OF THE CELL</title><list id="id24001742" list-type="enumerated">
+        <item>What are the main chemical components of a cell?</item>
+        <item>What are the structure levels of a protein?</item>
+        <item>Give an example of the modular characteristic of a protein.</item>
+        <item>What is a “Watson-Crick basepairing”?</item>
+        <item>What are the differences between a DNA and an RNA molecules </item>
+        <item>What are the main weak chemical bonds existing in living organisms?</item>
+        <item>What are the characteristics of these bonds which determine their functions?</item>
+        <item>What is the chromatin? the chromosome?</item>
+        <item>Why is the eukaryotic genome much more compact than prokaryotic genome?</item>
+      </list>
+    </section>
+    <section id="id23149230">
+      
+      <title> Topic 2. CONSTANCY OF DNA</title><list id="id17367785" list-type="enumerated">
+        <item>Describe some experiences showing that DNA is the genetic material.</item>
+        <item>What is the Central Dogma of Molecular Biology?</item>
+        <item>Describe Meselson &amp; Stahl’s experience about DNA replication in E. coli; what is the meaning of this experience?</item>
+        <item>What is a replicon?</item>
+        <item>What are the factors needed for the initiation of DNA replication in E. coli </item>
+        <item>How are the two strands of DNA molecule being copied from an origin of replication? </item>
+        <item>What are the problems encountered by the replication machinery at the replication fork ? How are these problems resolved </item>
+        <item>What are the roles of Helicase, Topoisomerase, Primase, SSB proteins, DNA polymerase III, RNase H, DNA polymerase I?</item>
+        <item>What are the problems of finishing DNA replication in prokaryotes? eukaryotes? How are they resolved? </item>
+      </list>
+    </section>
+    <section id="id21846092">
+      
+      <title> Topic 3. VARIATIONS OF DNA</title><list id="id17865750" list-type="enumerated">
+        <item>What are the main causes of DNA variation? What are their roles in the living world?</item>
+        <item>How are the mutations being repaired during and shortly after the end of the replication process?</item>
+        <item>What are the main repair systems used by the cell to repair DNA damages between two replication processes?</item>
+        <item>What are the differences between homologous and site-specific DNA recombination? </item>
+        <item>What are the biological roles of homologous recombination? site-specific recombination?</item>
+        <item>Describe the Holliday model used to explain DNA homologous recombination.</item>
+        <item>Compare the Holliday model and the Double-Stranded Break (DSB) model of recombination.</item>
+        <item>What are the functions of RecBCD complex, RecA, RuvAB and RuvC in the homologous recombination in E. coli?</item>
+        <item>What are the functions of SSR recombinases in site-specific recombination?</item>
+        <item>What are transposons? How are they being classified?</item>
+        <item>What are the differences between replicative and non-replicative transposition?</item>
+        <item>How does a polyA retrotransposon transpose?</item>
+        <item>How is a retroviral-like retrotransposon transpose?</item>
+      </list>
+    </section>
+    <section id="id21804894">
+      
+      <title> Topic 4. GENE EXPRESSION – TRANSCRIPTION</title><list id="id23264278" list-type="enumerated">
+        <item>What are the characteristics of transcriptional process that distinguish it from DNA replication?</item>
+        <item>What are the components of prokaryotic RNA polymerase? What are their functions?</item>
+        <item>What are the structure and functions of a promoter?</item>
+        <item>How does the RNA polymerase initiate the transcription?</item>
+        <item>How is the RNA molecule being elongated?</item>
+        <item>What are the mechanisms of transcription termination?</item>
+        <item>What are the eukaryotic RNA polymerases? What are their functions?</item>
+        <item>What are the DNA sequences involved in transcription initiation by RNA polymerase II?</item>
+        <item>How does RNA polymerase II function during transcription?</item>
+        <item>What are the post-transcriptional mRNA processing’s?</item>
+        <item>Why is RNA splicing a crucial step in gene expression in eukaryotes?</item>
+        <item>What is a spliceosome? How does it function during splicing process?</item>
+      </list>
+    </section>
+    <section id="id18250913">
+      <title> Topic 5. PROTEIN SYNTHESIS</title>
+      <list id="id23563284" list-type="enumerated">
+        <item>What are the characteristics of the Genetic Code?</item>
+        <item>What is the Wobble concept?</item>
+        <item>What are the disadvantages of translational compared to replicational and transcriptional processes?</item>
+        <item>What are the roles of tRNA, rRNA, mRNA?</item>
+        <item>What is an ORF? What are the criteria used to define it?</item>
+        <item>What is the 5’ end structure of a prokaryotic (and eukaryotic) mRNA necessary to its translation?</item>
+        <item>What are the functions of a ribosome?</item>
+        <item>What are the structural characteristics of a tRNA?</item>
+        <item>How is an amino acid attached to a tRNA? What determines the specificity of the reaction?</item>
+        <item>How is the translational process initiated in prokaryote? in eukaryote?</item>
+        <item>What are the main steps of translational elongation?</item>
+        <item>How is the translational process terminated?</item>
+      </list>
+    </section>
+    <section id="id19814684">
+      <title> Topic 6. REGULATION OF GENE EXPRESSION IN PROKARYOTES</title>
+      <list id="id19418952" list-type="enumerated">
+        <item>What are the purposes of the regulation of gene expression in prokaryotes? in eukaryotes ?</item>
+        <item>What are the main mechanisms of gene expression regulation in prokaryotes? in eukaryotes ?</item>
+        <item>What do you think which determine the differences in the regulation of gene expression between these two groups?</item>
+        <item>What is a positive control of gene expression? a negative control </item>
+        <item>What are the structural and functional characteristics of an operon?</item>
+        <item>What is a catabolite repression?</item>
+        <item>What is “attenuation” in terms of regulation of gene expression?</item>
+        <item>How does the alternative use of σ factors fit the purpose of the regulation of gene expression in prokaryote?</item>
+      </list>
+    </section>
+    <section id="id23220211">
+      
+      <title>Topic 7. REGULATION OF GENE EXPRESSION IN EUKARYOTES</title><list id="id23778378" list-type="enumerated">
+        <item>What are the structural characteristics that determine different levels of the control of gene expression in eukaryotes?</item>
+        <item>What is an epigenetic inheritance? What are the basic mechanisms underlying epigenetic in heritance</item>
+        <item>Give an example for epigenetic inheritance through histone modifications and DNA methylation?</item>
+        <item>What are the roles of TRANS proteins and CIS sequences in the control of transcriptional initiation?</item>
+        <item>What are the respective roles of general and specific transcription factors in initiating the transcription process?</item>
+        <item>What are the common modules of transcription factors?</item>
+        <item>How can alternative splicing generate more than one transcript from one gene?</item>
+        <item>How can transcription factors act at distance?</item>
+        <item>What are the determinants of mRNA stability?</item>
+        <item>What are the main mechanisms of post-translational control?</item>
+        <item>What are siRNAs? miRNAs? What are their roles in the control of gene expression?</item>
+      </list>
+    </section>
+    <section id="id24555740">
+      
+      <title>Topic 8. METHODS </title><list id="id22010034" list-type="enumerated">
+        <item>What are the main steps of a nucleic acid extraction protocol?</item>
+        <item>What is electrophoresis used for?</item>
+        <item>How can one determine the concentration of a double-stranded DNA by spectrophotometric analysis?</item>
+        <item>What are the enzymes used for PCR technique? What are their characteristics?</item>
+        <item>What are the principles of quantitative PCR based on the use of Taqman probe?</item>
+        <item>What are Molecular cloning techniques used for?</item>
+        <item>What is a vector? What are its characteristics?</item>
+        <item>What are the main steps of Molecular cloning protocols?</item>
+        <item>How is a PCR performed?</item>
+        <item>What are the main steps of Southern blotting?</item>
+        <item>What is the principle of Dideoxy sequencing? How is it applied in automatic sequencing?</item>
+        <item>Give a definition for Genomics? Transcriptomics? Proteomics? Metabolomics? Phenomics?</item>
+        <item>How can Bioinformatics be used to predict gene function from their structures?</item>
+        <item>What are microarrays used for?</item>
+        <item>What is the principle of the Yeast Two-hybrid system?</item>
+      </list>
+    </section>
+  </content>
+</document>
